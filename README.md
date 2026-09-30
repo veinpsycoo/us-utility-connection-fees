@@ -10,8 +10,8 @@ Maintained by [Utility Cost Guide](https://utilitycostguide.com/). Browse it, wi
 | Cities / jurisdictions | 124 |
 | States | 35 |
 | Utilities | 203 |
-| Verified against the source document | 1,588 (the other 206 are flagged `needs_review`) |
-| Last verification pass | 24–26 September 2026 |
+| Verified against the source document | 1,713 (the other 81 are flagged `needs_review`: no newer official schedule could be confirmed) |
+| Last verification pass | 24–30 September 2026 |
 
 Rows by service: water 961, sewer 565, general 147, electric 74, stormwater 22, gas 16, reclaimed 9.
 Most common fee categories: impact 384, capacity 287, tap 214, connection 203, meter 136.
