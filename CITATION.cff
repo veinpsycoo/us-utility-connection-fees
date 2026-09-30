@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and cite the original utility document for any specific fee."
+title: "U.S. Utility Connection Fee Database"
+authors:
+  - name: "Utility Cost Guide"
+    website: "https://utilitycostguide.com/"
+url: "https://utilitycostguide.com/fee-database/"
+license: CC-BY-4.0
+date-released: 2026-09-30
